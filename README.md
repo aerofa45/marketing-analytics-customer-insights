@@ -137,8 +137,8 @@ The sentiment pipeline uses **VADER compound score** plus the star `Rating`:
 
 ---
 
-## (portfolio summary)
-“Built a marketing analytics pipeline combining SQL-based cleaning/modeling, Python sentiment enrichment of customer reviews (VADER), and a Power BI dashboard with a dedicated calendar table. The project answers a business case for an e-commerce company facing lower engagement and conversion despite increased campaign spend, and it turns review text + ratings into actionable sentiment categories to guide optimization.”
+## Summary
+This is a fully built marketing analytics pipeline combining SQL-based cleaning/modeling, Python sentiment enrichment of customer reviews (VADER), and a Power BI dashboard with a dedicated calendar table. The project answers a business case for an e-commerce company facing lower engagement and conversion despite increased campaign spend, and it turns review text + ratings into actionable sentiment categories to guide optimization.
 
 ---
 
